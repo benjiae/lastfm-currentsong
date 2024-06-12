@@ -12,7 +12,7 @@ API_KEY = os.getenv("LASTFM_APIKEY")
 LASTFM_USER = os.getenv("LASTFM_USER")
 
 headers = {
-    'user_agent': "lastfm-currentsong-testing"
+    'user_agent': "lastfm-currentsong"
 }
 
 while True:
