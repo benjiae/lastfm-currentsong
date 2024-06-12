@@ -2,7 +2,7 @@
 A simple last-fm to text file (and image) tool
 
 ## ¿Why?
-obs-currentsong only supports spotify by title
+obs-currentsong only supports spotify with the title and i don't want a window on obs
 
 ## How to use:
 First, clone this repository and create a ``.env`` file, make sure it includes the following:
